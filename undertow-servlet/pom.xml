@@ -30,7 +30,7 @@
     <description>Undertow Servlet Example for OpenShift Java S2I</description>
 
     <properties>
-        <version.undertow>1.3.25.Final-redhat-1</version.undertow>
+        <version.undertow>2.2.15.Final</version.undertow>
         <version.jboss.logmanager>2.0.3.Final-redhat-1</version.jboss.logmanager>
     </properties>
 
